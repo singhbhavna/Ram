@@ -6,6 +6,8 @@ body {
   padding: 8px;
 }
 
+Edited by bhavna
+
 * {
   box-sizing: border-box;
 }
